@@ -10,6 +10,16 @@ import cadastro.common.RootConstants;
 import cadastro.view.CLI;
 
 // @Controller
+/**
+ *@author DevPapito
+ *
+ *Classe RootController que gerencia diretamente a camada view e permite
+ *o fluxo organizado dos dados para outras camadas iniciais do projeto
+ *
+ *@@param RegisterController, LoginController; São controllers separados que
+ *realizam o registro(cadastro) e login do cliente ao sistema,
+ *
+ * */
 public class RootController {
 
     private CLI cli;
@@ -31,6 +41,13 @@ public class RootController {
 
     }
 
+    /**
+     *
+     *
+     *@param String operation; Parametro que deseja receber uma operação
+     *dos tipos root, register e login
+     *
+     * */
     public String choocerOperation(String operation) {
 
         String operationLocal = rootService.transformOperation(operation);
