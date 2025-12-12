@@ -1,0 +1,28 @@
+public class Argumento2 {
+
+    public static void main(String[] args) {
+
+        String frase = "Ola Mundo ";
+
+        if (args.length > 0)
+            String fraseCompleta  = "Ola Mundo "+args[0];
+        String fraseCompleta = "Ola mundo somente";
+
+        System.out.println(0);
+
+
+    }
+
+    public static String olaMundo(String frase, String[] args) {
+
+        String fraseCompleta = "Ola mundo ";
+        if (args.length > 0)
+            fraseCompleta = fraseCompleta+args[0];
+        fraseCompleta = fraseCompleta+"apenas";
+
+        return fraseCompleta;
+
+
+    }
+
+}
