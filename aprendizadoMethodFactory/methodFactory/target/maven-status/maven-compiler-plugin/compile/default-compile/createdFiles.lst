@@ -1,0 +1,8 @@
+app\learn\methodFactory\factory\EmailMessageFactory.class
+app\learn\methodFactory\client\Sender.class
+app\learn\methodFactory\Message.class
+app\learn\methodFactory\App.class
+app\learn\methodFactory\factory\MessageFactory.class
+app\learn\methodFactory\factory\SmsMessageFactory.class
+app\learn\methodFactory\Sms.class
+app\learn\methodFactory\Email.class

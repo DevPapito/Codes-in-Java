@@ -1,0 +1,8 @@
+app\learn\methodFactory\factory\UserFactory.class
+app\learn\methodFactory\App.class
+app\learn\methodFactory\Client.class
+app\learn\methodFactory\User.class
+app\learn\methodFactory\factory\AdminFactory.class
+app\learn\methodFactory\Admin.class
+app\learn\methodFactory\factory\ClientFactory.class
+app\learn\methodFactory\client\CreateUser.class
