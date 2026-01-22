@@ -1,0 +1,10 @@
+com\projeto\model\Arma.class
+com\projeto\model\Carregador.class
+com\projeto\view\ArsenalView.class
+com\projeto\controller\ArsenalController.class
+com\projeto\model\Arsenal.class
+com\projeto\model\Bala.class
+com\projeto\view\TUI.class
+com\projeto\model\Jogador.class
+com\projeto\App.class
+com\projeto\controller\GameController.class
